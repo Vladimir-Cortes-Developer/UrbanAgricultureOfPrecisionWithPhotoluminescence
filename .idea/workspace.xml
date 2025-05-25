@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(data): adicione agricultura_vertical_dataset.csv">
-      <change afterPath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(eda): Análisis detallado de condiciones ambientales.">
+      <change beforePath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
-      <workItem from="1748136307083" duration="1521000" />
+      <workItem from="1748136307083" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -104,7 +103,39 @@
       <option name="project" value="LOCAL" />
       <updated>1748136884631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(data): adicione paquetes, dependencias y configuraciones.">
+      <option name="closed" value="true" />
+      <created>1748140227360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140227360</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(data): Carga y prepara el dataset del sistema de agricultura vertical.">
+      <option name="closed" value="true" />
+      <created>1748140309941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140309941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(eda): Crea un dashboard general del sistema.">
+      <option name="closed" value="true" />
+      <created>1748140399906</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140399906</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat(eda): Análisis detallado de condiciones ambientales.">
+      <option name="closed" value="true" />
+      <created>1748140491836</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140491836</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +165,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(project): adicione los archivos iniciales del proyecto" />
     <MESSAGE value="feat(data): adicione agricultura_vertical_dataset.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(data): adicione agricultura_vertical_dataset.csv" />
+    <MESSAGE value="feat(data): adicione paquetes, dependencias y configuraciones." />
+    <MESSAGE value="feat(data): Carga y prepara el dataset del sistema de agricultura vertical." />
+    <MESSAGE value="feat(eda): Crea un dashboard general del sistema." />
+    <MESSAGE value="feat(eda): Análisis detallado de condiciones ambientales." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(eda): Análisis detallado de condiciones ambientales." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(eda): refactor análisis detallado de condiciones ambientales.">
-      <change beforePath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(eda): Análisis estadístico avanzado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
-      <workItem from="1748136307083" duration="2136000" />
+      <workItem from="1748136307083" duration="2466000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -143,7 +141,47 @@
       <option name="project" value="LOCAL" />
       <updated>1748140536949</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat(eda): Análisis de calidad del aire del ambiente controlado.">
+      <option name="closed" value="true" />
+      <created>1748140842143</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140842143</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat(eda): Análisis exhaustivo de correlaciones entre todas las variables.">
+      <option name="closed" value="true" />
+      <created>1748140895533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140895533</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat(eda): Análisis de patrones temporales en el sistema.">
+      <option name="closed" value="true" />
+      <created>1748140967421</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748140967421</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat(eda): Análisis del sistema de control y ajustes automáticos.">
+      <option name="closed" value="true" />
+      <created>1748141039056</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748141039056</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(eda): Análisis estadístico avanzado">
+      <option name="closed" value="true" />
+      <created>1748141103570</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748141103570</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +216,12 @@
     <MESSAGE value="feat(eda): Crea un dashboard general del sistema." />
     <MESSAGE value="feat(eda): Análisis detallado de condiciones ambientales." />
     <MESSAGE value="feat(eda): refactor análisis detallado de condiciones ambientales." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(eda): refactor análisis detallado de condiciones ambientales." />
+    <MESSAGE value="feat(eda): Análisis de calidad del aire del ambiente controlado." />
+    <MESSAGE value="feat(eda): Análisis exhaustivo de correlaciones entre todas las variables." />
+    <MESSAGE value="feat(eda): Análisis de patrones temporales en el sistema." />
+    <MESSAGE value="feat(eda): Análisis del sistema de control y ajustes automáticos." />
+    <MESSAGE value="feat(eda): Análisis estadístico avanzado" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(eda): Análisis estadístico avanzado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

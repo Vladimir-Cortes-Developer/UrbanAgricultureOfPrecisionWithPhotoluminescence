@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): guardar features engineered">
-      <change beforePath="$PROJECT_DIR$/notebooks/02_feature_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_feature_engineering.ipynb" afterDir="false" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): resumen de feature engineering">
+      <change afterPath="$PROJECT_DIR$/notebooks/03_train_models.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="5446000" />
+      <workItem from="1748217595758" duration="5854000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -352,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748222953146</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="feat(processing): resumen de feature engineering">
+      <option name="closed" value="true" />
+      <created>1748223229216</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1748223229216</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(eda): Análisis exhaustivo de correlaciones entre todas las variables." />
     <MESSAGE value="feat(eda): Análisis de patrones temporales en el sistema." />
     <MESSAGE value="feat(eda): Análisis del sistema de control y ajustes automáticos." />
     <MESSAGE value="feat(eda): Análisis estadístico avanzado" />
@@ -405,7 +412,8 @@
     <MESSAGE value="feat(processing): creación de features finales" />
     <MESSAGE value="feat(processing): validación de features" />
     <MESSAGE value="feat(processing): guardar features engineered" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): guardar features engineered" />
+    <MESSAGE value="feat(processing): resumen de feature engineering" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): resumen de feature engineering" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

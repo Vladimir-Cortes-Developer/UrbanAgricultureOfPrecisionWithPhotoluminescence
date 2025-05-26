@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): detección y manejo de outliers" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): creación de features básicas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="1148000" />
+      <workItem from="1748217595758" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -230,7 +230,31 @@
       <option name="project" value="LOCAL" />
       <updated>1748218717101</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat(preprocessing): validación de rangos específicos">
+      <option name="closed" value="true" />
+      <created>1748218860698</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218860698</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat(preprocessing): transformación de datos">
+      <option name="closed" value="true" />
+      <created>1748218953166</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218953166</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat(preprocessing): creación de features básicas">
+      <option name="closed" value="true" />
+      <created>1748219057135</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1748219057135</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +300,10 @@
     <MESSAGE value="feat(preprocessing): análisis de calidad de datos y" />
     <MESSAGE value="feat(preprocessing): manejo de valores faltantes" />
     <MESSAGE value="feat(preprocessing): detección y manejo de outliers" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): detección y manejo de outliers" />
+    <MESSAGE value="feat(preprocessing): validación de rangos específicos" />
+    <MESSAGE value="feat(preprocessing): transformación de datos" />
+    <MESSAGE value="feat(preprocessing): creación de features básicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): creación de features básicas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

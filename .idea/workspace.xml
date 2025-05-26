@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(eda): Función principal que ejecuta todo el análisis exploratorio">
-      <change afterPath="$PROJECT_DIR$/notebooks/01_data_preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): análisis de calidad de datos y" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="472000" />
+      <workItem from="1748217595758" duration="827000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -202,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748141310531</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat(preprocessing): Configuración de visualización">
+      <option name="closed" value="true" />
+      <created>1748218100257</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218100257</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat(preprocessing): análisis de calidad de datos y">
+      <option name="closed" value="true" />
+      <created>1748218424894</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218424894</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +256,9 @@
     <MESSAGE value="feat(eda): Análisis estadístico avanzado" />
     <MESSAGE value="feat(eda): Insights para optimización del rendimiento del sistema" />
     <MESSAGE value="feat(eda): Genera un resumen ejecutivo completo del análisis" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(eda): Genera un resumen ejecutivo completo del análisis" />
+    <MESSAGE value="feat(preprocessing): Configuración de visualización" />
+    <MESSAGE value="feat(preprocessing): análisis de calidad de datos y" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): análisis de calidad de datos y" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

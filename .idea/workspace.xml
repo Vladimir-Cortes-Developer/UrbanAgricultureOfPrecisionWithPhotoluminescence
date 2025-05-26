@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): features polinomiales">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/02_feature_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_feature_engineering.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): creación de features finales" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="4783000" />
+      <workItem from="1748217595758" duration="5129000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -321,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748221947345</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="feat(processing): selección de features">
+      <option name="closed" value="true" />
+      <created>1748222492227</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1748222492227</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat(processing): creación de features finales">
+      <option name="closed" value="true" />
+      <created>1748222753413</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1748222753413</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,8 +362,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(eda): Crea un dashboard general del sistema." />
-    <MESSAGE value="feat(eda): Análisis detallado de condiciones ambientales." />
     <MESSAGE value="feat(eda): refactor análisis detallado de condiciones ambientales." />
     <MESSAGE value="feat(eda): Análisis de calidad del aire del ambiente controlado." />
     <MESSAGE value="feat(eda): Análisis exhaustivo de correlaciones entre todas las variables." />
@@ -374,7 +385,9 @@
     <MESSAGE value="feat(processing): análisis de correlaciones avanzado" />
     <MESSAGE value="feat(processing): creando features avanzadas" />
     <MESSAGE value="feat(processing): features polinomiales" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): features polinomiales" />
+    <MESSAGE value="feat(processing): selección de features" />
+    <MESSAGE value="feat(processing): creación de features finales" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): creación de features finales" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(eda): Análisis estadístico avanzado" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(eda): Función principal que ejecuta todo el análisis exploratorio">
+      <change afterPath="$PROJECT_DIR$/notebooks/01_data_preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/00_EDA_agricultura_vertical.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Vladimir-Cortes-Developer"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vladimir-Cortes-Developer&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vladimir-Cortes-Developer/UrbanAgricultureOfPrecisionWithPhotoluminescence.git",
-    "accountId": "baabb9fa-75d6-4e0a-b062-bdad800ea182"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vladimir-Cortes-Developer/UrbanAgricultureOfPrecisionWithPhotoluminescence.git&quot;,
+    &quot;accountId&quot;: &quot;baabb9fa-75d6-4e0a-b062-bdad800ea182&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,21 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User001\PycharmProjects\Talentotech2\PythonProjectUrbanAgricultureOfPrecisionWithPhotoluminescence\data\raw" />
@@ -75,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
-      <workItem from="1748136307083" duration="2466000" />
+      <workItem from="1748136307083" duration="3330000" />
+      <workItem from="1748217595758" duration="472000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -181,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748141103570</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat(eda): Insights para optimización del rendimiento del sistema">
+      <option name="closed" value="true" />
+      <created>1748141213635</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748141213635</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat(eda): Genera un resumen ejecutivo completo del análisis">
+      <option name="closed" value="true" />
+      <created>1748141310531</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748141310531</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +242,9 @@
     <MESSAGE value="feat(eda): Análisis de patrones temporales en el sistema." />
     <MESSAGE value="feat(eda): Análisis del sistema de control y ajustes automáticos." />
     <MESSAGE value="feat(eda): Análisis estadístico avanzado" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(eda): Análisis estadístico avanzado" />
+    <MESSAGE value="feat(eda): Insights para optimización del rendimiento del sistema" />
+    <MESSAGE value="feat(eda): Genera un resumen ejecutivo completo del análisis" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(eda): Genera un resumen ejecutivo completo del análisis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

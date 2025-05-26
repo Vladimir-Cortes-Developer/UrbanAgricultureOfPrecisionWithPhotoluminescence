@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): carga de datos features engineered" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): entrenamiento para eficiencia fotosintética" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="6239000" />
+      <workItem from="1748217595758" duration="6888000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -374,7 +374,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748223871798</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="feat(processing): configuración de modelos">
+      <option name="closed" value="true" />
+      <created>1748224076912</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1748224076912</updated>
+    </task>
+    <task id="LOCAL-00039" summary="feat(processing): entrenamiento para eficiencia fotosintética">
+      <option name="closed" value="true" />
+      <created>1748224261987</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1748224261987</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,8 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(eda): Análisis estadístico avanzado" />
-    <MESSAGE value="feat(eda): Insights para optimización del rendimiento del sistema" />
     <MESSAGE value="feat(eda): Genera un resumen ejecutivo completo del análisis" />
     <MESSAGE value="feat(preprocessing): Configuración de visualización" />
     <MESSAGE value="feat(preprocessing): análisis de calidad de datos y" />
@@ -427,7 +441,9 @@
     <MESSAGE value="feat(processing): resumen de feature engineering" />
     <MESSAGE value="feat(processing): Entrenamiento y Evaluación de Modelos ML para Agricultura Vertical" />
     <MESSAGE value="feat(processing): carga de datos features engineered" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): carga de datos features engineered" />
+    <MESSAGE value="feat(processing): configuración de modelos" />
+    <MESSAGE value="feat(processing): entrenamiento para eficiencia fotosintética" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): entrenamiento para eficiencia fotosintética" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

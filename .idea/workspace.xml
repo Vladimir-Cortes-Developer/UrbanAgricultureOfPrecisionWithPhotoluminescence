@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="6888000" />
+      <workItem from="1748217595758" duration="7477000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -390,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748224261987</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="feat(processing): entrenamiento para eficiencia fotosintética">
+      <option name="closed" value="true" />
+      <created>1748225296285</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1748225296285</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

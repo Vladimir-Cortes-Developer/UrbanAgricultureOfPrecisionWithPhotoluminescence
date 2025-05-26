@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): análisis de calidad de datos y" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): detección y manejo de outliers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="827000" />
+      <workItem from="1748217595758" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -214,7 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748218424894</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat(preprocessing): manejo de valores faltantes">
+      <option name="closed" value="true" />
+      <created>1748218512119</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218512119</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat(preprocessing): detección y manejo de outliers">
+      <option name="closed" value="true" />
+      <created>1748218717101</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218717101</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +274,9 @@
     <MESSAGE value="feat(eda): Genera un resumen ejecutivo completo del análisis" />
     <MESSAGE value="feat(preprocessing): Configuración de visualización" />
     <MESSAGE value="feat(preprocessing): análisis de calidad de datos y" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): análisis de calidad de datos y" />
+    <MESSAGE value="feat(preprocessing): manejo de valores faltantes" />
+    <MESSAGE value="feat(preprocessing): detección y manejo de outliers" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): detección y manejo de outliers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

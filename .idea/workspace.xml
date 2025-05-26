@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): análisis de residuos" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): validación cruzada">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/03_train_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/03_train_models.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="8327000" />
+      <workItem from="1748217595758" duration="9217000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -422,7 +425,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748225863257</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="feat(processing): análisis de importancia de features">
+      <option name="closed" value="true" />
+      <created>1748226271854</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1748226271854</updated>
+    </task>
+    <task id="LOCAL-00045" summary="feat(processing): validación cruzada">
+      <option name="closed" value="true" />
+      <created>1748226391773</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1748226391774</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,8 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(preprocessing): análisis de calidad de datos y" />
-    <MESSAGE value="feat(preprocessing): manejo de valores faltantes" />
     <MESSAGE value="feat(preprocessing): detección y manejo de outliers" />
     <MESSAGE value="feat(preprocessing): validación de rangos específicos" />
     <MESSAGE value="feat(preprocessing): transformación de datos" />
@@ -475,7 +492,9 @@
     <MESSAGE value="feat(processing): entrenamiento para eficiencia fotosintética" />
     <MESSAGE value="feat(processing): comparación de modelos" />
     <MESSAGE value="feat(processing): análisis de residuos" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): análisis de residuos" />
+    <MESSAGE value="feat(processing): análisis de importancia de features" />
+    <MESSAGE value="feat(processing): validación cruzada" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): validación cruzada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

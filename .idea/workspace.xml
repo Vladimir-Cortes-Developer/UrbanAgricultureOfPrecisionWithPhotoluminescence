@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): comparación de modelos" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(processing): análisis de residuos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="7917000" />
+      <workItem from="1748217595758" duration="8327000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -414,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748225644665</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="feat(processing): análisis de residuos">
+      <option name="closed" value="true" />
+      <created>1748225863257</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1748225863257</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(preprocessing): Configuración de visualización" />
     <MESSAGE value="feat(preprocessing): análisis de calidad de datos y" />
     <MESSAGE value="feat(preprocessing): manejo de valores faltantes" />
     <MESSAGE value="feat(preprocessing): detección y manejo de outliers" />
@@ -467,7 +474,8 @@
     <MESSAGE value="feat(processing): configuración de modelos" />
     <MESSAGE value="feat(processing): entrenamiento para eficiencia fotosintética" />
     <MESSAGE value="feat(processing): comparación de modelos" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): comparación de modelos" />
+    <MESSAGE value="feat(processing): análisis de residuos" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(processing): análisis de residuos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

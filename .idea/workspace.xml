@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): creación de features básicas" />
+    <list default="true" id="cbd852f5-a830-4d5f-8792-fa2a3f665bc2" name="Changes" comment="feat(preprocessing): división de datos">
+      <change beforePath="$PROJECT_DIR$/notebooks/01_data_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_data_preprocessing.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748136306259</updated>
       <workItem from="1748136307083" duration="3330000" />
-      <workItem from="1748217595758" duration="1466000" />
+      <workItem from="1748217595758" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="feat(project): adicione los archivos iniciales del proyecto">
       <option name="closed" value="true" />
@@ -254,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748219057135</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="feat(preprocessing): división de datos">
+      <option name="closed" value="true" />
+      <created>1748219153492</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1748219153492</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +313,8 @@
     <MESSAGE value="feat(preprocessing): validación de rangos específicos" />
     <MESSAGE value="feat(preprocessing): transformación de datos" />
     <MESSAGE value="feat(preprocessing): creación de features básicas" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): creación de features básicas" />
+    <MESSAGE value="feat(preprocessing): división de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(preprocessing): división de datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
